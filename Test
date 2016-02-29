@@ -14,7 +14,7 @@
 <div id='map-two' class='map'> </div>
 <script>
 L.mapbox.accessToken = 'pk.eyJ1IjoiamxvcGV6dGVjIiwiYSI6ImNpa2l4N2IxajA1M250eWo3eTN1emc3b3MifQ.ByurYTEzp7n53uypKoMLPA';
-L.mapbox.map('map-two', 'jlopeztec.dark, {
+L.mapbox.map('map-two', 'jlopeztec.7zz0nokq', {
     scrollWheelZoom: false
 }).setViewsetView([-118.654352,34.365813], 8.18);
 </script>
